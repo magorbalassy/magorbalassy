@@ -30,6 +30,7 @@
 <img src="https://skillicons.dev/icons?i=py,flask,regex,nginx,html,css,js,nodejs,ts,angular,materialui" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,vim,vscode,md" /><br>
 <br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=magorbalassy.magorbalassy.visitor-badge)
 <!--
 **magorbalassy/magorbalassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
