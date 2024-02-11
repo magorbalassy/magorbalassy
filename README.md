@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+<h2>Statistics</h2>
+<!--<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
+</p>-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magorbalassy/magorbalassy/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magorbalassy/magorbalassy/snake/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/magorbalassy/magorbalassy/snake/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<br>
+
+<h2 align="left">Skills</h2>
+
+<img src="https://skillicons.dev/icons?i=linux,terraform,ansible,docker,elasticsearch,kafka,prometheus" /><br>
+<img src="https://skillicons.dev/icons?i=py,flask,regex,nginx,html,css,js,nodejs,ts,angular,materialui" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,vim,vscode,md" /><br>
+<br>
 <!--
 **magorbalassy/magorbalassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
