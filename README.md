@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+
+<h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
+
+<ul>
+  <li>💼 Senior Systems / Devops Engineer </li>
+  <li>📖 Elasticsearch - Obervability & Log management - large scale</li>
+  <li>🛠️ Infra / Linux </li>
+  <li>🎨 Software engineering education and coding enthusiast</li>
+</ul>
+<br>
 
 <h2>Statistics</h2>
 <!--<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=mashb1t&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashb1t&layout=compact&theme=aura&langs_count=9" />
@@ -12,6 +22,7 @@
 </p>
 
 <br>
+
 
 <h2 align="left">Skills</h2>
 
