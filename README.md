@@ -26,8 +26,8 @@
 
 <h2 align="left">Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=linux,terraform,ansible,docker,elasticsearch,kafka,prometheus" /><br>
-<img src="https://skillicons.dev/icons?i=py,flask,regex,nginx,html,css,js,nodejs,ts,angular,materialui" /><br>
+<img src="https://skillicons.dev/icons?i=linux,elasticsearch,terraform,ansible,docker,kafka,prometheus" /><br>
+<img src="https://skillicons.dev/icons?i=py,flask,bash,regex,nginx,html,css,js,nodejs,ts,angular,materialui" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,vim,vscode,md" /><br>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=magorbalassy.magorbalassy.visitor-badge)
