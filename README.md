@@ -6,7 +6,7 @@
   <li>💼 Senior Systems / Devops Engineer </li>
   <li>📖 Elasticsearch - Obervability & Log management - large scale</li>
   <li>🛠️ Infra / Linux </li>
-  <li>🎨 Software engineering education and coding enthusiast</li>
+  <li>🎨 Software engineer and coding enthusiast</li>
 </ul>
 <br>
 
