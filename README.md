@@ -4,7 +4,8 @@
 
 <ul>
   <li>💼 Senior Systems / Devops Engineer </li>
-  <li>📖 Elasticsearch - Obervability & Log management - large scale</li>
+  <li>📖 Elasticsearch platform - ELK stack expert</li>
+  <li>👓 Obervability, Data & Log management - large scale</li>
   <li>🛠️ Infra / Linux </li>
   <li>🎨 Software engineer and coding enthusiast</li>
 </ul>
