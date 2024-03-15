@@ -26,12 +26,40 @@
 
 
 <h2 align="left">Skills</h2>
-
+<div style="display: inline-block;">
 <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=elasticsearch,terraform,ansible,docker,kafka,prometheus" /><br>
-<img src="https://skillicons.dev/icons?i=py,flask,bash,regex,nginx,html,css,js,nodejs,ts,angular,materialui" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,vim,vscode,md" /><br>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch Platform" />
+<img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />
+<img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
+<img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />
+<img src="https://skillicons.dev/icons?i=ansible" title="Ansible" />
 <br>
+<img src="https://skillicons.dev/icons?i=py" title="Python" />
+<img src="https://skillicons.dev/icons?i=flask" title="Flask" />
+<img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+<img src="https://skillicons.dev/icons?i=regex" title="Regex" />
+<img src="https://skillicons.dev/icons?i=ts" title="Typescript" />
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+<img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS" />
+<img src="https://skillicons.dev/icons?i=js" title="Javascript" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
+<img src="https://skillicons.dev/icons?i=nginx"  title="Nginx" />
+<br>
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="Github"/>
+<img src="https://skillicons.dev/icons?i=githubactions" title="Github Actions"/>
+<img src="https://skillicons.dev/icons?i=gitlab" title="Gitlab"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=vim" title="Vim"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=md" title="Markdown"/>
+<br>
+</div>
+<br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=magorbalassy.magorbalassy.visitor-badge)
 <!--
 **magorbalassy/magorbalassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
